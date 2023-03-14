@@ -6,7 +6,7 @@ const Menu = () => {
       <div
         id="sobre"
         class="row bg-light p-3 flex-wrap"
-        style={{ width: "100%" }}
+        style={{ width: "auto" , backgraound-color:"Black"}}
       >
         <h2 style={{ padding: "20px" }}>Sobre Mim</h2>
         <div class="col-sm-6">
