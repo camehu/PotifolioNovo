@@ -3,9 +3,7 @@ import React from "react";
 const Menu2 = () => {
   return (
     <>
-    <div style={{position:'fixed'}}>
-
-    </div>
+    <div>
       <nav class="navbar navbar-dark bg-dark fixed-top">
         <div class="container-fluid">
           <a class="navbar-brand" href="#">
@@ -64,6 +62,7 @@ const Menu2 = () => {
           </div>
         </div>
       </nav>
+     </div>
     </>
   );
 };
