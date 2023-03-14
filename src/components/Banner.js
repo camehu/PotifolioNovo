@@ -4,7 +4,7 @@ import Button from "../components/Button";
 const Banner = () => {
   return (
     <>
-      <div class="d-flex flex-wrap justify-content-center">
+      <div class="d-flex flex-wrap  justify-content-center align-content-center">
           <div class="p-2"> 
               <img
                 src="https://www.threadscript.com/images/department/ZkoTXjGauq1aiiAUIlB52hkW1vPHj6gg.jpg"
