@@ -23,7 +23,7 @@ const Menu = () => {
               <img
                 src="https://wallup.net/wp-content/uploads/2019/09/261374-speed-racer-action-family-sport-race-cartoon-race-racing-56.jpg"
                 alt="Avatar Logo"
-                style={{ width: "430px" }}
+                style={{ width: "350px" }}
                 class="rounded-pill"
               />
             </a>

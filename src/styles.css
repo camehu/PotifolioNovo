@@ -14,3 +14,10 @@
   }
 
 }
+
+@media only screen and (max-width: 480px) {
+  #imgBanner{
+      width:260px;
+  }
+
+}

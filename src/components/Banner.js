@@ -7,9 +7,10 @@ const Banner = () => {
       <div class="d-flex flex-wrap  justify-content-center align-content-center">
           <div class="p-2"> 
               <img
+                id="imgBanner"
                 src="https://www.threadscript.com/images/department/ZkoTXjGauq1aiiAUIlB52hkW1vPHj6gg.jpg"
                 alt="Banner Dev"
-                style={{ width: "550px", padding: "1rem", marginTop: "3rem" }}
+                style={{ width: "500px", padding: "1rem", marginTop: "3rem" }}
                 class="rounded-pill"
               />
           </div>
