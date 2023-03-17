@@ -11,7 +11,7 @@ const Banner = () => {
                 src="https://www.threadscript.com/images/department/ZkoTXjGauq1aiiAUIlB52hkW1vPHj6gg.jpg"
                 alt="Banner Dev"
                 style={{ width: "710px", padding: "1rem", marginTop: "3rem" }}
-                class="rounded-pill"
+                class="img-fluid"
               />
           </div>
         
