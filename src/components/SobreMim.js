@@ -5,13 +5,13 @@ const Menu = () => {
     <>
       <div
         id="sobre"
-        class="row bg-primary p-5 mt-5 flex-wrap"
+        class="row p-5 mt-5 bg-light"
         style={{ width: "auto" }}
       >
         <h1 style={{ padding: "13px" }}>Sobre Mim</h1>
 
-        <div class="col-sm">
-          <p style={{  margin: "15px" }}>
+        <div class="col-md">
+          <p>
             Graduado em Analise e Desenvolvidmento de sistemas pela Universidade
             Paulista(UNIP). Possuo Habilidade com os frameworks Flask, FastAPI,
             Django e Rest Framework. Possuo conhecimento em Desenvolvimento
