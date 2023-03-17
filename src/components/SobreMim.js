@@ -5,11 +5,12 @@ const Menu = () => {
     <>
       <div
         id="sobre"
-        class="row bg-light p-3 flex-wrap"
-        style={{ width: "auto" , background-color:"black"}}
+        class="row bg-primary p-5 flex-wrap"
+        style={{ width: "auto" }}
       >
         <h2 style={{ padding: "20px" }}>Sobre Mim</h2>
-        <div class="col-sm-6">
+
+        <div class="col-sm">
           <p style={{ textAlign: "justify", margin: "30px" }}>
             Graduado em Analise e Desenvolvidmento de sistemas pela Universidade
             Paulista(UNIP). Possuo Habilidade com os frameworks Flask, FastAPI,

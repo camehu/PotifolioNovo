@@ -10,7 +10,7 @@ const Banner = () => {
                 id="imgBanner"
                 src="https://www.threadscript.com/images/department/ZkoTXjGauq1aiiAUIlB52hkW1vPHj6gg.jpg"
                 alt="Banner Dev"
-                style={{ width: "500px", padding: "1rem", marginTop: "3rem" }}
+                style={{ width: "710px", padding: "1rem", marginTop: "3rem" }}
                 class="rounded-pill"
               />
           </div>

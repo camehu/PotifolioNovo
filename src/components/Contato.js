@@ -5,7 +5,7 @@ const Menu = () => {
     <>
       <div
         id="contato"
-        class="d-flex justify-content-center bg-light p-4 flex-wrap"
+        class="d-flex justify-content-center bg-primary p-4 flex-wrap"
       >
         <form
           style={{

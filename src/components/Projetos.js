@@ -3,9 +3,9 @@ import React from "react";
 const Menu = () => {
   return (
     <>
-      <h1 className="p-2">Projetos</h1>
+      <h1 className="p-4">Projetos</h1>
 
-      <div id="projetos" class="d-flex justify-content-center p-3 flex-wrap">
+      <div id="projetos" class="d-flex justify-content-center p-2 flex-wrap">
         <div class="card m-2" style={{ width: "300px", height: "440px" }}>
           <img
             class="card-img-top"
